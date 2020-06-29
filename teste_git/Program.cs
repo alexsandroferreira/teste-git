@@ -6,6 +6,7 @@ namespace teste_git {
             Console.WriteLine("Hello World!");
             Console.WriteLine("segundo commit");
             Console.WriteLine("terceiro commit");
+            Console.WriteLine("quarto commit");
             Console.ReadLine();
 
         }
